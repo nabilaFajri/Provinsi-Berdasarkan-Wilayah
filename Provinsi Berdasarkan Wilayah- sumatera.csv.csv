@@ -1,0 +1,11 @@
+nid,parent_nid,name,serial,type,latitude,longitude,status
+1.0,0.0,Provinsi Aceh,11.0,1.0,4695135.0,9.67493993E8,1.0
+2.0,0.0,Provinsi Sumatera Utara,12.0,1.0,2.1153547E7,9.95450974E8,1.0
+3.0,0.0,Provinsi Sumatera Barat,13.0,1.0,-7399397.0,1.008000051E9,1.0
+4.0,0.0,Provinsi Riau,14.0,1.0,2933469.0,1.017068294E9,1.0
+5.0,0.0,Provinsi Jambi,15.0,1.0,-1.4851831E7,1.024380581E9,1.0
+6.0,0.0,Provinsi Sumatera Selatan,16.0,1.0,-3.3194374E7,1.03914399E8,1.0
+7.0,0.0,Provinsi Bengkulu,17.0,1.0,-3.5778471E7,1.023463875E9,1.0
+8.0,0.0,Provinsi Lampung,18.0,1.0,-4.5585849E7,1.054068079E9,1.0
+9.0,0.0,Provinsi Kepulauan Bangka Belitung,19.0,1.0,-2.7410513E7,1.064405872E9,1.0
+10.0,0.0,Provinsi Kepulauan Riau,21.0,1.0,3.9456514E7,1.081428669E9,1.0

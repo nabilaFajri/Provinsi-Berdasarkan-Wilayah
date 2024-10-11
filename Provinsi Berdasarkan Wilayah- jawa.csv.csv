@@ -1,0 +1,6 @@
+nid,parent_nid,name,serial,type,latitude,longitude,status
+12.0,0.0,Provinsi Jawa Barat,32.0,1.0,-7090911.0,1.07668887E8,1.0
+13.0,0.0,Provinsi Jawa Tengah,33.0,1.0,-7150975.0,1.101402594E9,1.0
+14.0,0.0,Provinsi DI Yogyakarta,34.0,1.0,-7.8753849E7,1.104262088E9,1.0
+15.0,0.0,Provinsi Jawa Timur,35.0,1.0,-7.5360639E7,1.122384017E9,1.0
+16.0,0.0,Provinsi Banten,36.0,1.0,-6.4058172E7,1.060640179E9,1.0
